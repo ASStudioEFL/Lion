@@ -23,4 +23,4 @@
 
 ### Help us!
 
-**If you're interested in helping us improve the Lion language, welcome PR!**
+**If you're interested in helping us improve the Lion language, welcome Pull Requests or commit issue!**
