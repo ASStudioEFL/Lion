@@ -13,6 +13,7 @@ int main()
 		cout << " >> ";
 		cin >> command;
 		if (command == "exit-lion") {cout << "Exit..\n"; break;}
+		else cout << "Unknown command: \"" << command << "\" \nTraceback:\n\tLine 1\n\tLion 0.0.1 Alpha\n\tUnknown command, please check\n";
 	}
 
 	if (command == "exit-lion") return 0;
