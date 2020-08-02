@@ -2,7 +2,7 @@
 
 **Panda is an OOP language with simple syntax. Use now!**
 
-### How to use Lion
+### How to use Panda
 
 1. Download code from GitHub.There's a link sheet:
 
