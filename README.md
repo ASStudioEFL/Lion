@@ -1,6 +1,6 @@
-# Lion
+# Panda
 
-**Lion is an OOP language with simple syntax. Use now!**
+**Panda is an OOP language with simple syntax. Use now!**
 
 ### How to use Lion
 
@@ -8,7 +8,7 @@
 
    |                    https                    |                   SSH                   |                           Download                           |
    | :-----------------------------------------: | :-------------------------------------: | :----------------------------------------------------------: |
-   | ` https://github.com/ASStudioEFL/Lion.git ` | ` git@github.com:ASStudioEFL/Lion.git ` | [Cloudflare  download node](https://gh.efl.workers.dev/https:/github.com/ASStudioEFL/Lion/archive/master.zip) |
+   | ` https://github.com/ASStudioEFL/Panda.git ` | ` git@github.com:ASStudioEFL/Panda.git ` | [Cloudflare  download node](https://gh.efl.workers.dev/https:/github.com/ASStudioEFL/Panda/archive/master.zip) |
 
    *PS: Cloudflare download node by [CloudFlare Workers](https://workers.cloudflare.com), GitHub-file-download-speed-up service by [EFL](https://efl.pd2.ink)(me)*
 
@@ -17,7 +17,7 @@
 
 ### Syntax
 
-*In the latest version, there is not any syntax & command.You only can type ` lion-exit ` to exit the Lion*
+*In the latest version, there is not any syntax & command.You only can type ` panda-exit ` to exit the Lion*
 
 ---
 
