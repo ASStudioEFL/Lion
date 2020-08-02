@@ -12,11 +12,12 @@ int main()
 	{
 		cout << " >> ";
 		cin >> command;
-		if (command == "exit-lion") {cout << "Exit..\n"; break;}
+		if (command == "panda-exit") {cout << "Exit..\n"; break;}
+		if (command == "panda-help") {system("start \"https://github.com/ASStudioEFL/Panda/wikis\"");}
 		else cout << "Unknown command: \"" << command << "\" \nTraceback:\n\tLine 1\n\tLion 0.0.1 Alpha\n\tUnknown command, please check\n";
 	}
 
-	if (command == "exit-lion") return 0;
+	if (command == "panda-exit") return 0;
 	
 	return 0;
 }
