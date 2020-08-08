@@ -3,17 +3,20 @@
 
 #include <iostream>
 #include <cstring>
+#include <regex>
 
-string get_str_rule = "\"(?!\").*[\'\"\'].*?(?<!\")\""
+string str("\"(?!\").*[\'\"\'].*?(?<!\")\"");
 // "(?!").*['"'].*?(?<!")"  get string in " " or ' '
+regex pattern(str, regex::icase);
+smatch result;
 
-string print(message) cout << message;
-string printl(message) cout << message << endl;
+string print(message) std::cout << message;
+string printl(message) std::cout << message << endl;
 string input(string message = "")
 {
 	string value;
-	cout << message;
-	cin >> value;
+	std::cout << message;
+	std::cin >> value;
 	return value;
 }
 
